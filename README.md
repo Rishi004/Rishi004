@@ -10,7 +10,7 @@ I specialize in designing and developing scalable systems, building clean and ef
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishi004&row=1&column=7" alt="rishi004" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rishi004&theme=radical&no-bg=false&margin-w=4&row=1&column=7" alt="rishi004" />
   </a>
 </p>
 
@@ -41,9 +41,9 @@ Spring Boot, REST APIs, system design, debugging horrors, or surviving on caffei
 - ⚡ **Fun fact:**  
 I’m convinced every bug is just a feature in disguise—waiting to be discovered.
 
-
+</br>
 <h3 align="left">
-  Connect with me:
+  🌐 Connect with me:
 </h3>
 <p align="left">
   <a href="https://linkedin.com/in/rishikopan sivalingarajah" target="blank">
@@ -59,6 +59,7 @@ I’m convinced every bug is just a feature in disguise—waiting to be discover
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi004" height="30" width="40" />
   </a>
 </p>
+</br>
 
 
 <h3 align="left">🚀 Languages and Tools:</h3>
@@ -111,12 +112,15 @@ I’m convinced every bug is just a feature in disguise—waiting to be discover
     <td></td> <!-- leave empty if less than 14 -->
   </tr>
 </table>
+</br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi004&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi004&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi004&" alt="GitHub Streak" height="180"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" height="180"/>
 </p>
