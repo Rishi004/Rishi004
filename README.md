@@ -15,32 +15,49 @@ I specialize in designing and developing scalable systems, building clean and ef
 </p>
 
 
-- 🔭 I’m currently working on **Building robust back-end systems with Spring Boot, exploring the DevOps universe, and occasionally sweet-talking Docker into behaving. I love clean architecture, meaningful abstractions, and solving problems that make developers’ lives easier.**
+- 🔭 **Currently working on:**  
+Building robust back-end systems with Spring Boot, exploring the DevOps landscape, and occasionally sweet-talking Docker into behaving. Passionate about clean architecture, meaningful abstractions, and solving problems that improve developer workflows.
 
-- 🌱 I’m currently learning **- Docker & CI/CD pipelines ⚙️ - Cloud fundamentals and deploying scalable systems ☁️ - Blockchain engineering (because... why not fall into another rabbit hole?) 🕳️✨**
+- 🌱 **Currently learning:**  
+Docker & CI/CD pipelines ⚙️ | Cloud fundamentals & scalable deployments ☁️ | Blockchain engineering — diving into a new rabbit hole 🕳️✨
 
-- 👯 I’m looking to collaborate on **Innovative back-end projects, system design challenges, or anything that pushes boundaries in scalability, performance, and developer experience.**
+- 👯 **Looking to collaborate on:**  
+Innovative back-end projects, system design challenges, or anything that pushes boundaries in scalability, performance, and developer experience.
 
-- 🤝 I’m looking for help with **Leveling up my DevOps game — especially best practices around CI/CD, infrastructure as code, and efficient container orchestration. If you've got tips, tools, or secret YAML spells, I'm all ears.**
+- 🤝 **Looking for help with:**  
+Leveling up my DevOps expertise—especially CI/CD best practices, infrastructure as code, and container orchestration. If you have tips, tools, or secret YAML spells, I’m all ears.
 
-- 👨‍💻 All of my projects are available at [https://rishi-portfolio-xi.vercel.app/](https://rishi-portfolio-xi.vercel.app/)
+- 👨‍💻 **All my projects are available at:**  [Project Portfolio](https://rishi-portfolio-xi.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@rishireiko](https://medium.com/@rishireiko)
+- 📝 **I regularly write articles on:**  [Medium Profile](https://medium.com/@rishireiko)
 
-- 💬 Ask me about **Spring Boot, REST APIs, designing systems, debugging nightmares, or how to survive on caffeine and Stack Overflow alone.**
+- 💬 **Ask me about:**  
+Spring Boot, REST APIs, system design, debugging horrors, or surviving on caffeine and Stack Overflow alone.
 
-- 📫 How to reach me **rishireiko@gmail.com**
+- 📫 **How to reach me:**  rishireiko@gmail.com
 
-- 📄 Know about my experiences [🧳 Check out my journey and roles in detail on my [LinkedIn profile] https://www.linkedin.com/in/rishikopan-sivalingarajah-338bb7216](🧳 Check out my journey and roles in detail on my [LinkedIn profile] https://www.linkedin.com/in/rishikopan-sivalingarajah-338bb7216)
+- 📄 **Know about my experiences:**  🧳 [LinkedIn Profile](https://www.linkedin.com/in/rishikopan-sivalingarajah-338bb7216)
 
-- ⚡ Fun fact **I treat `git log` like a journal, name my bugs like Pokémon, and secretly enjoy rewriting things that were working just fine.**
+- ⚡ **Fun fact:**  
+I’m convinced every bug is just a feature in disguise—waiting to be discovered.
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishikopan sivalingarajah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikopan sivalingarajah" height="30" width="40" /></a>
-<a href="https://medium.com/@rishireiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishireiko" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishireiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishireiko" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishi004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi004" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rishikopan sivalingarajah" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikopan sivalingarajah" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@rishireiko" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishireiko" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/rishireiko" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishireiko" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/rishi004" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi004" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
