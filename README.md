@@ -49,7 +49,6 @@ Leveling up my DevOps expertise—especially CI/CD best practices, infrastructur
 - ⚡ **Fun fact:**  
 I’m convinced every bug is just a feature in disguise—waiting to be discovered.
 
-</br>
 <h3 align="left">
   🌐 Connect with me:
 </h3>
@@ -67,7 +66,6 @@ I’m convinced every bug is just a feature in disguise—waiting to be discover
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi004" height="30" width="40" />
   </a>
 </p>
-</br>
 
 
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -120,10 +118,8 @@ I’m convinced every bug is just a feature in disguise—waiting to be discover
     <td></td> <!-- leave empty if less than 14 -->
   </tr>
 </table>
+
 </br>
-
-
-<h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rishi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
@@ -132,7 +128,6 @@ I’m convinced every bug is just a feature in disguise—waiting to be discover
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" height="180"/>
 </p>
-</br>
 
 
 ### 🧠 Tech Wisdom
