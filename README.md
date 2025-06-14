@@ -32,7 +32,7 @@ Leveling up my DevOps expertise—especially CI/CD best practices, infrastructur
 - 📝 **I regularly write articles on:**  [Medium Profile](https://medium.com/@rishireiko)
 
 - 💬 **Ask me about:**  
-Spring Boot, REST APIs, system design, debugging horrors, or surviving on caffeine and Stack Overflow alone.
+Spring Boot, REST APIs, scalable system architecture, React, Next.js, full-stack integration, debugging complex issues, DevOps workflows, and building modern, performant web applications.
 
 - 📫 **How to reach me:**   rishireiko@gmail.com
 
