@@ -27,7 +27,7 @@ Innovative back-end projects, system design challenges, or anything that pushes 
 - 🤝 **Looking for help with:**  
 Leveling up my DevOps expertise—especially CI/CD best practices, infrastructure as code, and container orchestration. If you have tips, tools, or secret YAML spells, I’m all ears.
 
-- 👨‍💻 **All my projects are available at:**  [Project Portfolio](https://rishi-portfolio-xi.vercel.app/)
+- 👨‍💻 **All my projects are available at:**  [Portfolio](https://rishi-portfolio-xi.vercel.app/)
 
 - 📝 **I regularly write articles on:**  [Medium Profile](https://medium.com/@rishireiko)
 
@@ -62,7 +62,7 @@ I’m convinced every bug is just a feature in disguise—waiting to be discover
 </br>
 
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <table>
   <tr>
     <td align="center"><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" alt="Android"/></a></td>
