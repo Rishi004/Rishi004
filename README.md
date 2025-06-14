@@ -41,7 +41,6 @@ Leveling up my DevOps expertise—especially CI/CD best practices, infrastructur
   - React and Next.js  
   - Full-stack integration  
   - Debugging complex issues  
-  - DevOps workflows  
 
 - 📫 **How to reach me:**   rishireiko@gmail.com
 
