@@ -34,9 +34,9 @@ Leveling up my DevOps expertise—especially CI/CD best practices, infrastructur
 - 💬 **Ask me about:**  
 Spring Boot, REST APIs, system design, debugging horrors, or surviving on caffeine and Stack Overflow alone.
 
-- 📫 **How to reach me:**  rishireiko@gmail.com
+- 📫 **How to reach me:**   rishireiko@gmail.com
 
-- 📄 **Know about my experiences:**  🧳 [LinkedIn Profile](https://www.linkedin.com/in/rishikopan-sivalingarajah-338bb7216)
+- 📄 **Know about my experiences:**   [LinkedIn Profile](https://www.linkedin.com/in/rishikopan-sivalingarajah-338bb7216)
 
 - ⚡ **Fun fact:**  
 I’m convinced every bug is just a feature in disguise—waiting to be discovered.
