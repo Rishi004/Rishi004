@@ -18,11 +18,15 @@ I specialize in designing and developing scalable systems, building clean and ef
 - 🔭 **Currently working on:**  
 Building robust back-end systems with Spring Boot, exploring the DevOps landscape, and occasionally sweet-talking Docker into behaving. Passionate about clean architecture, meaningful abstractions, and solving problems that improve developer workflows.
 
-- 🌱 **Currently learning:**  
-Docker & CI/CD pipelines ⚙️ | Cloud fundamentals & scalable deployments ☁️ | Blockchain engineering — diving into a new rabbit hole 🕳️✨
+- 🌱 **Currently Learning:**
+  - Optimizing CI/CD pipelines with advanced automation and industry best practices.  
+  - Designing cloud-native systems that are scalable, resilient, and production-ready.  
+  - Refining frontend development skills using React and Next.js for performant and maintainable interfaces.
 
 - 👯 **Looking to collaborate on:**  
-Innovative back-end projects, system design challenges, or anything that pushes boundaries in scalability, performance, and developer experience.
+  - Innovative back-end projects  
+  - System design challenges  
+  - Anything that pushes boundaries in scalability, performance, and developer experience
 
 - 🤝 **Looking for help with:**  
 Leveling up my DevOps expertise—especially CI/CD best practices, infrastructure as code, and container orchestration. If you have tips, tools, or secret YAML spells, I’m all ears.
@@ -32,7 +36,12 @@ Leveling up my DevOps expertise—especially CI/CD best practices, infrastructur
 - 📝 **I regularly write articles on:**  [Medium Profile](https://medium.com/@rishireiko)
 
 - 💬 **Ask me about:**  
-Spring Boot, REST APIs, scalable system architecture, React, Next.js, full-stack integration, debugging complex issues, DevOps workflows, and building modern, performant web applications.
+  - Spring Boot  
+  - Scalable system architecture  
+  - React and Next.js  
+  - Full-stack integration  
+  - Debugging complex issues  
+  - DevOps workflows  
 
 - 📫 **How to reach me:**   rishireiko@gmail.com
 
