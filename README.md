@@ -124,3 +124,9 @@ I’m convinced every bug is just a feature in disguise—waiting to be discover
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" height="180"/>
 </p>
+</br>
+
+
+### 🧠 Tech Wisdom
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
